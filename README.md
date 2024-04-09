@@ -1,2 +1,3 @@
-# Kodluyoruz-HTML-B-l-m-Sonu-
+# Kodluyoruz-HTML-Bölüm-Sonu
+
 Kodluyoruz Bölüm Sonu 
